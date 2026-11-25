@@ -1,4 +1,4 @@
-Live URL:  https://aminbiography.github.io/js-sql-iams/
+Live URL:  https://aminbiography.github.io/JavaScript-SQL-IAMS-Principles/
     
 ---                                      
              
@@ -499,3 +499,6 @@ logSecurityEvent("LOGIN_FAILURE", { username: "alice", ip: "45.33.32.156" });
 
 ---
 
+#JavaScript #JavaScriptProgramming #JavaScriptTutorial #JavaScriptBasics #SQL #SQLProgramming #SQLTutorial #DatabaseManagement #IAMS #IdentityAndAccessManagement #IAM #IdentityManagement #AccessManagement #CyberSecurity #InformationSecurity #IdentityGovernance #AccessGovernance #RBAC #RoleBasedAccessControl #UserProvisioning #AccessControl #UserManagement #PermissionManagement #EntitlementManagement #AccessReview #AccessAuditing #AuditTrail #SecurityAuditing #LeastPrivilege #PrivilegeManagement #Authentication #Authorization #IdentityProvider #IdP #Okta #AzureAD #MicrosoftEntraID #Keycloak #APIIntegration #RESTAPI #JSON #NodeJS #PostgreSQL #MySQL #DatabaseSecurity #SQLJoins #SQLQueries #SQLTransactions #DataIntegrity #SecurityAutomation #IAMAutomation #ITSecurity #CyberSecurityLearning #ProgrammingFundamentals #GitHubRepository #DeveloperResources #OpenSource
+
+---
