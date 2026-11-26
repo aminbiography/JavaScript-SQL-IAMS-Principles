@@ -1,6 +1,6 @@
 **Live URL:**  https://aminbiography.github.io/JavaScript-SQL-IAMS-Principles/
     
----                                      
+---                                       
              
 # JS + SQL for IAMS              
 
